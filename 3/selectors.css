@@ -1,0 +1,27 @@
+
+/* El elemento cuyo id es seguidores */
+<selector> {
+      	background-color: gray;
+}
+
+/* Las secciones de la clase post */
+<selector> {
+      	background-color: lightgray;
+}
+
+
+/* Todos los elementos h2 que sean hijos directos de section */
+<selector> {
+      	color: red;
+}
+
+
+/* Todos los elementos h2 que desciendan de una sección  de la clase posts*/
+<selector> {
+      	color: blue;
+}
+
+/* Cuando se pasa el ratón por encima de cualquier h2 */
+<selector> {
+	color: pink;
+}
